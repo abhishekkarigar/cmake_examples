@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/libtest.dir/cmake_test.cpp.o  -o libtest -ltestStudent 
