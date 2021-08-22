@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary
+# Install script for directory: /mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,7 +52,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/usr/lib" TYPE SHARED_LIBRARY FILES "/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/libtestStudent.so")
+file(INSTALL DESTINATION "/usr/lib" TYPE SHARED_LIBRARY FILES "/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/libtestStudent.so")
   if(EXISTS "$ENV{DESTDIR}/usr/lib/libtestStudent.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}/usr/lib/libtestStudent.so")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -69,5 +69,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

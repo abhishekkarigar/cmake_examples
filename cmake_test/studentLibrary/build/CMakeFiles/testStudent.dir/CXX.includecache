@@ -10,9 +10,9 @@
 string
 -
 
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/src/Student.cpp
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/src/Student.cpp
 iostream
 -
 Student.h
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/src/Student.h
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/src/Student.h
 

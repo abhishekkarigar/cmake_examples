@@ -1,7 +1,7 @@
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/install/strip.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/edit_cache.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/testStudent.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/list_install_components.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/install/local.dir
-/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/build/CMakeFiles/install.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/install/strip.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/edit_cache.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/testStudent.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/list_install_components.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/install/local.dir
+/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/build/CMakeFiles/install.dir

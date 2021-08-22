@@ -6,5 +6,5 @@ CXX_FLAGS = -O3 -DNDEBUG -fPIC
 
 CXX_DEFINES = -DtestStudent_EXPORTS
 
-CXX_INCLUDES = -I/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/include 
+CXX_INCLUDES = -I/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/include 
 

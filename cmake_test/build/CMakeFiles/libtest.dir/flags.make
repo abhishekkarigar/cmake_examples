@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/d/OCEAN_EXPLORER/C++/cmake_test/studentLibrary/include 
+CXX_INCLUDES = -I/mnt/d/OCEAN_EXPLORER/cmake_examples/cmake_test/studentLibrary/include 
 
